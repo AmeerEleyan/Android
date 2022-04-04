@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAlarm</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="number_of_alarms">Number of alarms</string>
+    <string name="select_time">Select Time</string>
+    <string name="difference_between_alarms">Difference between alarms</string>
+</resources>
